@@ -9,4 +9,8 @@ title: Services
 - Teaching Assistant
   - ECE 4014 Computer Vision
   - ECE 3070 Medical Image Process
+  - ECE 449 Machine Learning
+  - ECE 428 Distributed System
+
+- Github Repo
     
