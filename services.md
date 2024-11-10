@@ -7,6 +7,9 @@ title: Services
   - PRCV 2023 (Chinese Conference on Pattern Recognition and Computer Vision)
   - PRCV 2024 (Chinese Conference on Pattern Recognition and Computer Vision)
   - ICMR 2024 (The Annual ACM International Conference on Multimedia Retrieval)
+  - NIPS 2024 (The Thirty-Eighth Annual Conference on Neural Information Processing Systems)
+  - ICLR 2024 (The Twelfth International Conference on Learning Representations)
+  - Pattern Recognition
 
 - Teaching Assistant
   - ECE 4014 Computer Vision
